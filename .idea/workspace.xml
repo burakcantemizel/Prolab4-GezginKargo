@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Prolab4:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a62ac8ac-f8c0-408a-964d-73ab1eaebf41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDlrMTxFenwPH2okxBIv6GPtBE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/darcula.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20344828" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Prolab4" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a62ac8ac-f8c0-408a-964d-73ab1eaebf41" name="Default Changelist" comment="" />
+      <created>1586278242284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586278242284</updated>
+      <workItem from="1586278247618" duration="11022000" />
+      <workItem from="1586292712460" duration="1224000" />
+      <workItem from="1586440339449" duration="685000" />
+      <workItem from="1586956486757" duration="17073000" />
+      <workItem from="1587270449188" duration="910000" />
+      <workItem from="1587635067351" duration="10934000" />
+      <workItem from="1587647674433" duration="4308000" />
+      <workItem from="1587671488745" duration="998000" />
+      <workItem from="1587735362803" duration="5514000" />
+      <workItem from="1587824050718" duration="13088000" />
+      <workItem from="1587844553213" duration="119000" />
+      <workItem from="1587857273316" duration="295000" />
+      <workItem from="1587914687076" duration="1387000" />
+      <workItem from="1587932393378" duration="3406000" />
+      <workItem from="1587936382685" duration="3128000" />
+      <workItem from="1587939580580" duration="1407000" />
+      <workItem from="1587941340446" duration="1166000" />
+      <workItem from="1587943198275" duration="668000" />
+      <workItem from="1587948261906" duration="1254000" />
+      <workItem from="1587949577971" duration="2837000" />
+      <workItem from="1587959908741" duration="2438000" />
+      <workItem from="1587962537992" duration="2111000" />
+      <workItem from="1588009166550" duration="2203000" />
+      <workItem from="1588011480243" duration="5916000" />
+      <workItem from="1588024671669" duration="164000" />
+      <workItem from="1588042630123" duration="588000" />
+      <workItem from="1588080158940" duration="6648000" />
+      <workItem from="1588097294389" duration="959000" />
+      <workItem from="1588103921820" duration="1696000" />
+      <workItem from="1588106315250" duration="1154000" />
+      <workItem from="1588181189543" duration="1143000" />
+      <workItem from="1588182781032" duration="234000" />
+      <workItem from="1588193784316" duration="302000" />
+      <workItem from="1588198826063" duration="641000" />
+      <workItem from="1588381033836" duration="6215000" />
+      <workItem from="1588403099099" duration="1755000" />
+      <workItem from="1588405211030" duration="3353000" />
+      <workItem from="1588411936527" duration="773000" />
+      <workItem from="1588416242109" duration="1859000" />
+      <workItem from="1588420922778" duration="640000" />
+      <workItem from="1588424175501" duration="4011000" />
+      <workItem from="1588435025699" duration="395000" />
+      <workItem from="1588440183106" duration="2280000" />
+      <workItem from="1588456241508" duration="1373000" />
+      <workItem from="1588507344397" duration="456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="213" key="#Project_Structure" timestamp="1588385704626">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1588385704626" />
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588456302211">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1588456302211" />
+    <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1587963584097">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="765" y="264" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1587963584097" />
+    <state x="657" y="335" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587949649650">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="657" y="335" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587949649650" />
+    <state x="1025" y="279" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1588386329584">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1025" y="279" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1588386329584" />
+    <state x="756" y="439" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588382982644">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="756" y="439" width="408" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.30.1920.1050@0.30.1920.1050" timestamp="1588382982644" />
+    <state x="690" y="301" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586966929108">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1586966929108" />
+    <state x="657" y="306" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1588386637830">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="657" y="306" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1588386637830" />
+    <state x="718" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588382867989">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="718" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.30.1920.1050@0.30.1920.1050" timestamp="1588382867989" />
+    <state x="707" y="306" key="FileChooserDialogImpl" timestamp="1588387194391">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="707" y="306" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1588387194391" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1588507803400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1588507803400" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1588507803400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="173" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1588507803400" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1588507803400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="173" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1588507803400" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1588507803400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="173" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1588507803400" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1588387260102">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1588387260102" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1588387260101">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1588387260101" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1588387260101">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1588387260101" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1588387260102">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1588387260102" />
+    <state x="407" y="126" key="SettingsEditor" timestamp="1588387197399">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="407" y="126" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1588387197399" />
+    <state x="787" y="509" key="classpath-attribute-editor" timestamp="1588385618910">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="787" y="509" key="classpath-attribute-editor/0.30.1920.1050@0.30.1920.1050" timestamp="1588385618910" />
+    <state x="819" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1588507894473">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="819" y="349" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1588507894473" />
+    <state x="521" y="290" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588182143525">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="521" y="290" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.30.1920.1050@0.30.1920.1050" timestamp="1588182143525" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1587635459745">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1587635459745" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1588383054051">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1588383054051" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/SunumEkrani.java</url>
+          <line>410</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CiktiYazdirici.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SunumEkrani.java</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
